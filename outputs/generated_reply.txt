@@ -1,0 +1,23 @@
+
+============================================================
+Date: 2026-10-10 22:08:43
+Customer: Ganika
+Subject: Delivery Delay
+Intent: Delivery Issue
+Customer Email: My order has not arrived.
+Generated Reply:
+Hi Ganika,
+
+Thanks for getting in touch about the delay in your delivery - we're so sorry for the hassle this has caused and that your order hasn't arrived yet.
+
+We're really sorry for the delay and want to reassure you that we're doing everything we can to get to the bottom of it. Our logistics team is working hard to track down your shipment and will be in touch with you within the next 24 hours with an update.
+
+In the meantime, we're investigating what went wrong and working to fix the issue as soon as possible. We appreciate your patience and understanding during this time.
+
+We want to thank you for choosing us and for sticking with us. We'll keep you posted on the status of your shipment as soon as we hear back from our logistics team.
+
+Thanks for your continued support!
+
+Cheers,
+[Your Name]
+Summary: The customer's issue is that their order has not been delivered. They are requesting assistance with resolving the issue.
